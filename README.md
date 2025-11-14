@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @JustineShumate
 - 👀 I’m interested in ...coding ,and cooking
-- 🌱 I’m currently learning ...golang and flutter
-- 💞️ I’m looking to collaborate on ...building exa
-- 📫 How to reach me ...
+- 🌱 My favorite coding language is flutter
+- 💞️ I am working a collaborating project ...building social media platform called exa
+- 📫 How to reach me ...Email JustineShumate1988@gmail.com
 - 😄 Pronouns: ...she
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: ...i love torat cards 
 
 <!---
 JustineShumate/JustineShumate is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
